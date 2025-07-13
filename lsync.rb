@@ -3,11 +3,11 @@ class Lsync < Formula
   license "MIT"
   homepage "https://github.com/kaysman/lsync"
   # required
-  version "0.1.1"
+  version "0.1.2"
   # required
-  url "https://github.com/kaysman/lsync/releases/download/v0.1.1/lsync_cli_macos"
+  url "https://github.com/kaysman/lsync/releases/download/v0.1.2/lsync_cli_macos"
   # required
-  sha256 "5fa4694ca7eb7b05194497ab97351b69e52901f0c2990a704ddce009caa853d9"
+  sha256 "f40b0bba834fd7452543e88f72f5c9685f30c73977dfc93a3a94f9d8c1ddee04"
 
   def install
     bin.install "lsync_cli_macos" => "lsync"
