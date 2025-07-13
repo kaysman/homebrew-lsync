@@ -8,3 +8,5 @@ This repository hosts the [Homebrew](https://brew.sh) formula for [`lsync`](http
 brew tap kaysman/lsync
 brew install lsync
 ```
+
+Author: [Atabek Kadirov](mailto:atabek.iuhd@gmail.com)
